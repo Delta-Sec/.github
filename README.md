@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/200" alt="Delta-Sec Logo" width="200" height="200">
-
   # Delta-Sec
   **A team specialized in Cybersecurity, Programming, and Modern Technologies.**
   <br />
