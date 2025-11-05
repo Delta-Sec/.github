@@ -1,4 +1,3 @@
-# .github
 <div align="center">
 
   <img src="https://via.placeholder.com/200" alt="Delta-Sec Logo" width="200" height="200">
