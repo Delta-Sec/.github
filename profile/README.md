@@ -1,3 +1,5 @@
+<img width="1024" height="379" alt="Gemini_Generated_Image_kiwaaqkiwaaqkiwa" src="https://github.com/user-attachments/assets/8aa4ca6f-6dd6-46cd-93ba-ecfc5a81c3a1" />
+
 <div align="center">
 
   # Delta-Sec
