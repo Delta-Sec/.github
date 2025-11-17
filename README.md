@@ -14,7 +14,7 @@
     <a href="https://www.delta-sec.site/">
       <img alt="Website" src="https://img.shields.io/badge/Website-delta--sec.site-blue?style=flat-square">
     </a>
-    <a href="mailto:no-reply@delta-sec.site">
+    <a href="mailto:contact@delta-sec.site">
       <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Us-red?style=flat-square&logo=gmail">
     </a>
     </p>
@@ -131,7 +131,7 @@ These are some of the technologies and tools we use and love:
 ### 🌐 Connect with Us
 
 * **Official Website (Soon):** [https://www.delta-sec.site/](https://www.delta-sec.site/)
-* **Email:** [no-reply@delta-sec.site](mailto:no-reply@delta-sec.site)
+* **Email:** [no-reply@delta-sec.site](mailto:contact@delta-sec.site)
 * **GitHub:** [https://github.com/Delta-Sec](https://github.com/Delta-Sec)
 
 ---
