@@ -141,7 +141,7 @@ These are some of the technologies and tools we use and love:
 ### 🌐 Connect with Us
 
 * **Official Website (Soon):** [https://www.delta-sec.site/](https://www.delta-sec.site/)
-* **Email:** [no-reply@delta-sec.site](mailto:contact@delta-sec.site)
+* **Email:** [contact@delta-sec.site](mailto:contact@delta-sec.site)
 * **GitHub:** [https://github.com/Delta-Sec](https://github.com/Delta-Sec)
 
 ---
