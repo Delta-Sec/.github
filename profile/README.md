@@ -14,7 +14,7 @@
     <a href="https://www.delta-sec.site/">
       <img alt="Website" src="https://img.shields.io/badge/Website-delta--sec.site-blue?style=flat-square">
     </a>
-    <a href="mailto:no-reply@delta-sec.site">
+    <a href="mailto:contact@delta-sec.site">
       <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Us-red?style=flat-square&logo=gmail">
     </a>
     </p>
@@ -97,17 +97,11 @@ These are some of the technologies and tools we use and love:
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="https://golang.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   </a>
   <a href="https://www.cplusplus.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  </a>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -115,15 +109,29 @@ These are some of the technologies and tools we use and love:
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
-</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
 
----
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
 
-### 📊 Team's GitHub Stats
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delta-Sec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Delta-Sec's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Sec&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <a href="https://www.kali.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  </a>
+
+  <a href="https://cloud.google.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
 </p>
 
 ---
@@ -131,7 +139,7 @@ These are some of the technologies and tools we use and love:
 ### 🌐 Connect with Us
 
 * **Official Website (Soon):** [https://www.delta-sec.site/](https://www.delta-sec.site/)
-* **Email:** [no-reply@delta-sec.site](mailto:no-reply@delta-sec.site)
+* **Email:** [no-reply@delta-sec.site](mailto:contact@delta-sec.site)
 * **GitHub:** [https://github.com/Delta-Sec](https://github.com/Delta-Sec)
 
 ---
